@@ -2,6 +2,9 @@
 
 [![CI status](https://github.com/discorm/disco/workflows/ci/badge.svg)](https://github.com/discorm/disco/actions?query=workflow%3Aci+branch%3Amaster)
 [![Coverage Status](https://coveralls.io/repos/discorm/disco/badge.png)](https://coveralls.io/r/discorm/disco)
+[![npm package](https://img.shields.io/npm/v/@disco/disco)](https://npmjs.com/package/@disco/disco)
+[![Dependencies](https://img.shields.io/david/discorm/disco)](https://david-dm.org/discorm/disco)
+[![MIT License](https://img.shields.io/npm/l/@disco/disco)](./LICENSE)
 
 Disco is a full-featured ORM that takes advantage of async/await,
 which makes the codebase and usage of the library vastly simpler.
@@ -75,7 +78,3 @@ which means it could be anything. The expected form is to wrap
 model class tailored to the specific data storage system needed. The base
 driver does not include relational components, that is provided by yet another
 external module.
-
-## License
-
-[MIT](./LICENSE)
