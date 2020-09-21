@@ -1,6 +1,6 @@
 # @disco/disco
 
-[![CI status](https://github.com/discorm/disco/workflows/ci/badge.svg)](https://github.com/discorm/disco/actions?query=workflow%3ABuild+branch%3Amaster)
+[![CI status](https://github.com/discorm/disco/workflows/ci/badge.svg)](https://github.com/discorm/disco/actions?query=workflow%3Aci+branch%3Amaster)
 [![Coverage Status](https://coveralls.io/repos/discorm/disco/badge.png)](https://coveralls.io/r/discorm/disco)
 
 Disco is a full-featured ORM that takes advantage of async/await,
